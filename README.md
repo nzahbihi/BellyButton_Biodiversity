@@ -15,4 +15,4 @@ As shown, the dashboard displays a dropdown menu in which the user can select a 
 * types of bacteria culture
 * belly button washing frequency
 
-The data is displayed using three charts for readability. The user can also hover their mouse over the charts to gain more information on what is being presented.
+The data is displayed with three charts for readability. The user can also hover their mouse over the charts to gain more information on what is being presented.
